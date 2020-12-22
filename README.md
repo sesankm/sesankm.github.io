@@ -12,11 +12,11 @@
 * built a neural network with keras to test against decision tree and random forest classifers
 ![](/images/jobs_plot.png)
 
-## [Project 4: Songs Recommender](https://github.com/sesankm/song-recommender)
+## [Project 3: Songs Recommender](https://github.com/sesankm/song-recommender)
 * content-based filtering recommendation system
 * scraped genius.com to find songs with similar song writers, producers, mixing engineers and artists
 
-## [Project 3: House Value Estimator](https://github.com/sesankm/house_price_prediction)
+## [Project 4: House Value Estimator](https://github.com/sesankm/house_price_prediction)
 * scraped homes for sale in texas from homefinder.com
 * engineered features to reduce noise in data
 * compared inear regression model (R2=.65), bagging regressor (R2=.97), and random forest regressor (R2=.99)<br>
