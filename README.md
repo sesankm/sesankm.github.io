@@ -20,5 +20,6 @@
 * scraped homes for sale in texas from homefinder.com
 * engineered features to reduce noise in data
 * compared inear regression model (R2=.65), bagging regressor (R2=.97), and random forest regressor (R2=.99)
+
 ![](/images/dist1.png)
 ![](/images/dist2.png)
