@@ -19,7 +19,6 @@
 ## [Project 3: House Value Estimator](https://github.com/sesankm/house_price_prediction)
 * scraped homes for sale in texas from homefinder.com
 * engineered features to reduce noise in data
-* compared inear regression model (R2=.65), bagging regressor (R2=.97), and random forest regressor (R2=.99)
-
+* compared inear regression model (R2=.65), bagging regressor (R2=.97), and random forest regressor (R2=.99)<br>
 ![](/images/dist1.png)
 ![](/images/dist2.png)
