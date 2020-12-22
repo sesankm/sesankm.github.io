@@ -7,7 +7,7 @@
 ![](/images/google_price_chart.png)
 
 ## [Project 2: Bank Deposits Prediction](https://github.com/sesankm/bank_deposit_prediction)
-* predict which individuals in potential market will make a bank deposit
+* model to predict potential clients for banks
 * used GridSearchCV to optimize decision tree classifier and random forest classifier
 * built a neural network with keras to test against decision tree and random forest classifers
 ![](/images/jobs_plot.png)
@@ -17,7 +17,7 @@
 * scraped genius.com to find songs with similar song writers, producers, mixing engineers and artists
 
 ## [Project 4: House Value Estimator](https://github.com/sesankm/house_price_prediction)
-* scraped homes for sale in texas from homefinder.com
+* estimate the value of homes in texas with data scraped from homefinder.com
 * engineered features to reduce noise in data
 * compared inear regression model (R2=.65), bagging regressor (R2=.97), and random forest regressor (R2=.99)<br>
 ![](/images/dist1.png)
