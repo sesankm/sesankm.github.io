@@ -4,7 +4,7 @@
 * regression models which predict stock price movement
 * used 10 day, 50 day and 100 day moving averages to make predictions
 * predict stock prices with MAE of 15.85 (Bagging Regressor)
-![alt text](https://github.com/sesankm/stock_price_prediction/blob/master/google_price_chart.png)
+![](https://github.com/sesankm/stock_price_prediction/blob/master/google_price_chart.png)
 
 ## [Project 2: Bank Deposits Prediction](https://github.com/sesankm/bank_deposit_prediction)
 * predict which individuals in potential market will make a bank deposit
