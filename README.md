@@ -12,7 +12,7 @@
 * built a neural network with keras to test against decision tree and random forest classifers
 ![](/images/jobs_plot.png)
 
-## [Project 3: Songs Recommender](https://github.com/sesankm/song-recommender)
+## [Project 3: Songs Recommender](https://github.com/sesankm/song_recommender)
 * content-based filtering recommendation system
 * scraped genius.com to find songs with similar song writers, producers, mixing engineers and artists
 
