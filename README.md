@@ -10,7 +10,7 @@
 * predict which individuals in potential market will make a bank deposit
 * used GridSearchCV to optimize decision tree classifier and random forest classifier
 * built a neural network with keras to test against decision tree and random forest classifers
-![alt text](https://github.com/sesankm/bank_deposit_prediction/blob/main/plots/jobs_plot.png)
+![](/images/jobs_plot.png)
 
 ## [Project 4: Songs Recommender](https://github.com/sesankm/song-recommender)
 * content-based filtering recommendation system
@@ -20,5 +20,5 @@
 * scraped homes for sale in texas from homefinder.com
 * engineered features to reduce noise in data
 * compared inear regression model (R2=.65), bagging regressor (R2=.97), and random forest regressor (R2=.99)
-![alt text](https://github.com/sesankm/house_price_prediction/blob/main/plots/dist1.png)
-![alt text](https://github.com/sesankm/house_price_prediction/blob/main/plots/dist2.png)
+![](/images/dist1.png)
+![](/images/dist2.png)
