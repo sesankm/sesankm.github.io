@@ -1,24 +1,28 @@
 ###  Sesank M - Data Science Portfolio
 
 ## [Project 1: Stock Price Forecasting](https://github.com/sesankm/stock_price_prediction)
-* regression models which predict stock price movement
-* used 10 day, 50 day and 100 day moving averages to make predictions
-* predict stock prices with MAE of 15.85 (Bagging Regressor)
+* developed a tool for stock price forecasting
+* used yahoo_fin package to fetch historical price data
+* engineered features, and calculated technical indicators like moving averages
+* optimized bagging regressor with GridSearchCV to predict stock prices with MAE of 15.85
 ![](/images/google_price_chart.png)
 
 ## [Project 2: Bank Deposits Prediction](https://github.com/sesankm/bank_deposit_prediction)
-* model to predict potential clients for banks
-* used GridSearchCV to optimize decision tree classifier and random forest classifier
-* built a neural network with keras to test against decision tree and random forest classifers
+* built a model to identify potential clientele for banks
+* determines which individuals in a demographic are most likely to make a bank deposit
+* optimized decision tree clasifer (MSE=0.23) and random forest classifer (MSE=0.15) with grid search cv
+* built neural network to test against decision tree and random forest classifiers (MSE=0.16)
 ![](/images/jobs_plot.png)
 
 ## [Project 3: Songs Recommender](https://github.com/sesankm/song_recommender)
-* content-based filtering recommendation system
-* scraped genius.com to find songs with similar song writers, producers, mixing engineers and artists
+* a content-based filtering recommendation system which recommend songs
+* scraped genius.com to find songs with similar writers, producers and engineers
+* built an api with flask and productionized project with heroku
 
 ## [Project 4: House Value Estimator](https://github.com/sesankm/house_price_prediction)
-* estimate the value of homes in texas with data scraped from homefinder.com
-* engineered features to reduce noise in data
-* compared inear regression model (R2=.65), bagging regressor (R2=.97), and random forest regressor (R2=.99)<br>
+* a tool which etimates the value of a home
+* scraped texas housing data from homefinder.com
+* engineered features and reduced noise in the data
+* optmized linear regression model (R2=.65), bagging regressor (R2=.97) and random forest regressor (R2=.99)
 ![](/images/dist1.png)
 ![](/images/dist2.png)
