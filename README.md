@@ -23,6 +23,6 @@
 * a tool which etimates the value of a home
 * scraped texas housing data from homefinder.com
 * engineered features and reduced noise in the data
-* optmized linear regression model (R2=.65), bagging regressor (R2=.97) and random forest regressor (R2=.99)
+* optmized linear regression model (R2=.65), bagging regressor (R2=.97) and random forest regressor (R2=.99)<br>
 ![](/images/dist1.png)
 ![](/images/dist2.png)
