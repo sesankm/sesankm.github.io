@@ -5,7 +5,7 @@
 * used yahoo_fin package to fetch historical price data
 * engineered features, and calculated technical indicators like moving averages
 * optimized bagging regressor with GridSearchCV
-* Model Performance
+* Model Performance <br>
 <strong>Linear Regression</strong>: Negative MAE=-43.88 <br>
 <strong>AdaBoost Regressor</strong>: MAE=33.16<br>
 <strong>Bagging Regressor</strong>: MAE=15.85<br>
@@ -18,7 +18,7 @@
 * determines which individuals in a demographic are most likely to make a bank deposit
 * optimized decision tree clasifer (MSE=0.23) and random forest classifer (MSE=0.15) with grid search cv
 * built neural network to test against decision tree and random forest classifiers (MSE=0.16)
-* Model Performance
+* Model Performance <br>
 <strong> Decision tree: </strong> MSE=0.23 <br>
 <strong> Random Forest: </strong> MSE=0.15 <br>
 <strong> Neural Network: </strong> MSE=0.16 <br>
@@ -28,7 +28,7 @@
 * a tool which etimates the value of a home
 * scraped texas housing data from homefinder.com
 * engineered features and reduced noise in the data
-* Models Performance
+* Model Performance <br>
 <strong>Linear Regression</strong>: R2=.65 <br>
 <strong>Bagging Regressor</strong>: R2=.97 <br>
 <strong>Random Forest Regressor</strong>: R2=.99 <br>
