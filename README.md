@@ -22,6 +22,7 @@
 <strong> Decision tree: </strong> MSE=0.23 <br>
 <strong> Random Forest: </strong> MSE=0.15 <br>
 <strong> Neural Network: </strong> MSE=0.16 <br>
+
 ![](/images/jobs_plot.png)
 
 ## [Project 3: House Value Estimator](https://github.com/sesankm/house_price_prediction)
@@ -32,6 +33,7 @@
 <strong>Linear Regression</strong>: R2=.65 <br>
 <strong>Bagging Regressor</strong>: R2=.97 <br>
 <strong>Random Forest Regressor</strong>: R2=.99 <br>
+
 ![](/images/dist1.png)
 ![](/images/dist2.png)
 
@@ -43,6 +45,7 @@
 <strong>SVC</strong>: MSE=.09 <br>
 <strong>Ridge Classifier</strong>: MSE=.09 <br>
 <strong>Neural Network</strong>: MSE=.07 <br>
+
 ![](/images/age_dist.png)
 ![](/images/gender.png)
 
