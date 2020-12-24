@@ -46,7 +46,7 @@
 <strong>Ridge Classifier</strong>: MSE=.09 <br>
 <strong>Neural Network</strong>: MSE=.07 <br>
 
-![](/images/age_dist.png)
+![](/images/diabetes_age_dist.png)
 ![](/images/gender.png)
 
 ## [Project 5: Songs Recommender](https://github.com/sesankm/song_recommender)
