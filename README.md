@@ -53,3 +53,8 @@
 * a content-based filtering recommendation system which recommend songs
 * scraped genius.com to find songs with similar writers, producers and engineers
 * built an api with flask and productionized project with heroku
+
+# [Project 6: Article Summarizer](https://github.com/sesankm/article_summarizer)
+* a tool which finds latest news about companies and summarizes articles
+* scraped news articles from reuters with BeautifulSoup
+* summarized articles with spaCy
