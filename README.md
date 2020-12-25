@@ -37,7 +37,13 @@
 ![](/images/dist1.png)
 ![](/images/dist2.png)
 
-## [Project 4: Diabetes Prediction](https://github.com/sesankm/diabetes_prediction)
+## [Project 4: Handwritten Digit Recognizer](https://github.com/sesankm/digit_recognizer)
+* Handwritten digit recognizer with keras and tensorflow
+* Model Performance: 96% Accuracy on validation data
+
+![](/images/digit_predictions.png)
+
+## [Project 5: Diabetes Prediction](https://github.com/sesankm/diabetes_prediction)
 * predict risk of diabetes
 * tested support vector machine, ridge classifier and neural network models
 * engineered features to improve model performance
@@ -49,12 +55,12 @@
 ![](/images/diabetes_age_dist.png)
 ![](/images/gender.png)
 
-## [Project 5: Songs Recommender](https://github.com/sesankm/song_recommender)
+## [Project 6: Songs Recommender](https://github.com/sesankm/song_recommender)
 * a content-based filtering recommendation system which recommend songs
 * scraped genius.com to find songs with similar writers, producers and engineers
 * built an api with flask and productionized project with heroku
 
-## [Project 6: Article Summarizer](https://github.com/sesankm/article_summarizer)
+## [Project 7: Article Summarizer](https://github.com/sesankm/article_summarizer)
 * a tool which finds latest news about companies and summarizes articles
 * scraped news articles from reuters with BeautifulSoup
 * summarized articles with spaCy
