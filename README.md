@@ -38,7 +38,7 @@
 ![](/images/dist2.png)
 
 ## [Project 4: Handwritten Digit Recognizer](https://github.com/sesankm/digit_recognizer)
-* Handwritten digit recognizer with keras and tensorflow
+* classify handwritten digits with keras and tensorflow
 * Model Performance: 96% Accuracy on validation data
 
 ![](/images/digit_predictions.png)
