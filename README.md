@@ -25,7 +25,16 @@
 
 ![](/images/jobs_plot.png)
 
-## [Project 3: House Value Estimator](https://github.com/sesankm/house_price_prediction)
+## [Project 3: Pneumonia Detection in X-Rays](https://github.com/sesankm/pneumonia_detection)
+* Dataset: https://www.kaggle.com/khoongweihao/covid19-xray-dataset-train-test-sets
+* neural network that diagnosis penumonia in x-rays
+* vectorizes, resizes, and flattens x-rays
+* Model performance <br>
+<strong>Validation Accuracy:</strong> 0.98<br>
+
+![](/images/covid_xray_predictions.png)
+
+## [Project 4: House Value Estimator](https://github.com/sesankm/house_price_prediction)
 * a tool which etimates the value of a home
 * scraped texas housing data from homefinder.com
 * engineered features and reduced noise in the data
@@ -37,13 +46,13 @@
 ![](/images/dist1.png)
 ![](/images/dist2.png)
 
-## [Project 4: Handwritten Digit Recognizer](https://github.com/sesankm/digit_recognizer)
+## [Project 5: Handwritten Digit Recognizer](https://github.com/sesankm/digit_recognizer)
 * classify handwritten digits with keras and tensorflow
 * Model Performance: 96% Accuracy on validation data
 
 ![](/images/digit_predictions.png)
 
-## [Project 5: Diabetes Prediction](https://github.com/sesankm/diabetes_prediction)
+## [Project 6: Diabetes Prediction](https://github.com/sesankm/diabetes_prediction)
 * predict risk of diabetes
 * tested support vector machine, ridge classifier and neural network models
 * engineered features to improve model performance
@@ -55,12 +64,12 @@
 ![](/images/diabetes_age_dist.png)
 ![](/images/gender.png)
 
-## [Project 6: Songs Recommender](https://github.com/sesankm/song_recommender)
+## [Project 7: Songs Recommender](https://github.com/sesankm/song_recommender)
 * a content-based filtering recommendation system which recommend songs
 * scraped genius.com to find songs with similar writers, producers and engineers
 * built an api with flask and productionized project with heroku
 
-## [Project 7: Article Summarizer](https://github.com/sesankm/article_summarizer)
+## [Project 8: Article Summarizer](https://github.com/sesankm/article_summarizer)
 * a tool which finds latest news about companies and summarizes articles
 * scraped news articles from reuters with BeautifulSoup
 * summarized articles with spaCy
